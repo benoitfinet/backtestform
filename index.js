@@ -28,8 +28,8 @@ var smtpTransport = nodemailer.createTransport({
   service: 'Gmail',
   port: 465,
   auth: {
-    user: 'USERNAME',
-    pass: 'PASSWORD'
+    user: 'benoitfinetpro@gmail.com',
+    pass: 'Bl@z198877'
   }
 });
 
